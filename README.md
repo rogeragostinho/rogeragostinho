@@ -1,4 +1,5 @@
 <h1> Olá <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, está tudo bem?</h1>
+
 ###
 
 <p align="left">Meu nome é Roger Agostinho e sou em desenvolvedor web full-stack, de Luanda, Angola</p>
