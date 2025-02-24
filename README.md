@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs dese 2020<br>📚 Atualmente estou aprendendo React e Next.js <br>🎯 Objetivos: Aprender muito mais<br></p>
+<p align="left">✨ Criando bugs dese 2020<br>📚 Atualmente estou aprendendo Java <br>🎯 Objetivos: Aprender muito mais<br></p>
 
 ###
 
